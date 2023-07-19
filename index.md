@@ -5,3 +5,14 @@
 ##### Heading 5
 ###### Heading 6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+print()
+print the text inside the brackets on the screen
+```
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
